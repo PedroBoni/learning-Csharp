@@ -1,0 +1,13 @@
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/bin/Debug/netcoreapp3.1/lanchonete
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/bin/Debug/netcoreapp3.1/lanchonete.deps.json
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/bin/Debug/netcoreapp3.1/lanchonete.runtimeconfig.json
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/bin/Debug/netcoreapp3.1/lanchonete.runtimeconfig.dev.json
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/bin/Debug/netcoreapp3.1/lanchonete.dll
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/bin/Debug/netcoreapp3.1/lanchonete.pdb
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/obj/Debug/netcoreapp3.1/lanchonete.csprojAssemblyReference.cache
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/obj/Debug/netcoreapp3.1/lanchonete.AssemblyInfoInputs.cache
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/obj/Debug/netcoreapp3.1/lanchonete.AssemblyInfo.cs
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/obj/Debug/netcoreapp3.1/lanchonete.csproj.CoreCompileInputs.cache
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/obj/Debug/netcoreapp3.1/lanchonete.dll
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/obj/Debug/netcoreapp3.1/lanchonete.pdb
+/home/pedrobonifacio/Projects/learning-Csharp/lanchonete/obj/Debug/netcoreapp3.1/lanchonete.genruntimeconfig.cache
